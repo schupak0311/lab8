@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/egor/lab8/build",
+  "command": "/usr/bin/c++    -I/home/egor/lab8/include  -std=c++11 -Werror -Wall -g   -o CMakeFiles/lab8.dir/main.cpp.o -c /home/egor/lab8/main.cpp",
+  "file": "/home/egor/lab8/main.cpp"
+},
+{
+  "directory": "/home/egor/lab8/build",
+  "command": "/usr/bin/c++    -I/home/egor/lab8/include  -std=c++11 -Werror -Wall -g   -o CMakeFiles/lab8.dir/src/request.cpp.o -c /home/egor/lab8/src/request.cpp",
+  "file": "/home/egor/lab8/src/request.cpp"
+},
+{
+  "directory": "/home/egor/lab8/build",
+  "command": "/usr/bin/c++    -I/home/egor/lab8/include  -std=c++11 -Werror -Wall -g   -o CMakeFiles/lab8.dir/src/place.cpp.o -c /home/egor/lab8/src/place.cpp",
+  "file": "/home/egor/lab8/src/place.cpp"
+},
+{
+  "directory": "/home/egor/lab8/build",
+  "command": "/usr/bin/c++    -I/home/egor/lab8/include  -std=c++11 -Werror -Wall -g   -o CMakeFiles/lab8.dir/src/response.cpp.o -c /home/egor/lab8/src/response.cpp",
+  "file": "/home/egor/lab8/src/response.cpp"
+},
+{
+  "directory": "/home/egor/lab8/build",
+  "command": "/usr/bin/c++    -I/home/egor/lab8/include  -std=c++11 -Werror -Wall -g   -o CMakeFiles/lab8.dir/src/tcp_client.cpp.o -c /home/egor/lab8/src/tcp_client.cpp",
+  "file": "/home/egor/lab8/src/tcp_client.cpp"
+},
+{
+  "directory": "/home/egor/lab8/build",
+  "command": "/usr/bin/c++    -I/home/egor/lab8/include  -std=c++11 -Werror -Wall -g   -o CMakeFiles/lab8.dir/src/jsonconverter.cpp.o -c /home/egor/lab8/src/jsonconverter.cpp",
+  "file": "/home/egor/lab8/src/jsonconverter.cpp"
+}
+]
