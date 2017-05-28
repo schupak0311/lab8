@@ -1,7 +1,7 @@
 [![Travis-CI][travis-badge]][travis-builds]
 
-[travis-badge]: https://travis-ci.org/schupak0311/Lab8.svg?branch=master
-[travis-builds]: https://travis-ci.org/schupak0311/Lab8/builds
+[travis-badge]: https://travis-ci.org/schupak0311/lab8.svg?branch=master
+[travis-builds]: https://travis-ci.org/schupak0311/lab8/builds
 # HTTP-Server
 
 Створити TCP-сервер, що слухає запити на підключення TCP клієнтів і взаємодіє з ними за допомогою протоколу __HTTP__. 
